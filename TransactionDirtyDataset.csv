@@ -1,0 +1,27 @@
+CustomerID,CustomerName,Email,SignupDate,Country,PurchaseAmount,OrderID,Notes
+101,John Smith,john.smith@email.com,2025-01-05,USA,120.5,5001,First order
+102,Anna Brown,anna.brown@email.com,2025-02-10,Canada,85,5002,
+103,Mark Lee,mark.lee@email.com,2025-03-01,USA,210,5003,VIP
+104,John Smith,john.smith@email.com,2025-01-05,USA,120.5,5004,Duplicate customer
+105,Emily Davis,emily.davis@email.com,2025-03-15,UK,not available,5005,Wrong amount
+106, ,no_email,2025-04-01,Germany,95.2,5006,Missing name
+107,Robert King,robert.king@email.com,,USA,130,5007,Missing date
+108,Sarah Green,sarah.green@email.com,2025-05-20,USA,75,5008,
+109,Michael Scott,michael.scott@email.com,2025-06-10,USA,75,5009,
+109,Michael Scott,michael.scott@email.com,2025-06-10,USA,75,5009,Exact duplicate
+110,Laura White, laura.white@email.com ,2025-07-12,France,110,5010,Spaces in email
+111,Tom Clark,tom.clark@email.com,2025-13-01,USA,50,5011,Invalid date
+112,David Adams,david.adams@email.com,2025-08-05,USA,-20,5012,Negative amount
+113,Olivia Green,olivia.green@email.com,2025-08-10,Canada,200,5013,
+114,Chris Black,chris.black@email,2025-08-15,USA,300,5014,Invalid email
+115,Sophia White,sophia.white@email.com,2025-08-20,UK,250.75,5015,
+116,James Miller,james.miller@email.com,2025-09-01,USA,180,5016,
+117,Liam Johnson,liam.johnson@email.com,2025-09-05,USA,,5017,Missing amount
+118,Emma Wilson,emma.wilson@email.com,2025-09-10,USA,95,5018,
+119,Noah Brown,noah.brown@email.com,2025-09-12,Canada,140,5019,
+120,Ava Davis,ava.davis@email.com,2025-09-15,USA,220,5020,
+121,William Moore,william.moore@email.com,2025-09-20,USA,110,5021,
+122,Isabella Taylor,isabella.taylor@email.com,2025-09-22,USA,105.5,5022,
+123,Benjamin Anderson,benjamin.anderson@email.com,2025-09-25,USA,90,5023,
+124,Mia Thomas,mia.thomas@email.com,2025-09-28,USA,130,5024,
+125,Lucas Jackson,lucas.jackson@email.com,2025-09-30,USA,160,5025,
